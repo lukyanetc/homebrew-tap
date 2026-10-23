@@ -1,6 +1,6 @@
 cask "what-was-that" do
-  version "0.0.2"
-  sha256 "8b9de7b88bf221e5c4d0e41ee2e117c6c8224ae99b2f06efaf04d85d6d95bfee"
+  version "0.0.3"
+  sha256 "ХЕШ"
 
   url "https://github.com/lukyanetc/what-was-that/releases/download/v#{version}/What.Was.That-#{version}.zip"
   name "What Was That!?"
